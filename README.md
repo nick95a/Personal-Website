@@ -1,2 +1,2 @@
-# QA-Studio-
+# QA-Studio
 Сайт-визитка QA Studio
